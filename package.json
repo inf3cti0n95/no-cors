@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  },
+  "name": "no-cors",
+  "version": "0.0.1",
+  "description": "No-Cors To the Resource You Want",
+  "main": "index.js",
+  "repository": "https://github.com/inf3cti0n95/no-cors.git",
+  "author": "Viraj Trivedi <inf3cti0n95@gmail.com>",
+  "license": "MIT"
+}
